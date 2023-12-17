@@ -1,0 +1,2 @@
+# Script for creating a philosophical glossary
+The script was created for my study needs. The script takes a list of philosophical terms from the following Wikipedia page ('https://en.wikipedia.org/wiki/Glossary_of_philosophy') from which it then extracts them, writes them to pd.DataFrame and exports them to csv. However, I only needed 200 records and so the script also randomly reduces the number of records from the original 344.
